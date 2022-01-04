@@ -1,0 +1,150 @@
+
+body {
+    min-width: 420px;
+    background-color: #56CCF2;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fa {
+    float: right;
+    font-size: 2em;
+    margin-right: 1em;
+    margin-top: 0.5em;
+    color: #ffffff;
+}
+
+.categories, .action {
+    width: 95%;
+    height: 20em;
+    background: -webkit-linear-gradient(white, #56CCF2);
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 2em;
+    position: relative;
+}
+
+.cat, .act {
+    text-align: center;
+    padding-top: 1.5em;
+}
+
+.act-list {
+    padding-left: 15%;
+    line-height: 2em;
+    font-size: 1.2em;
+}
+
+table, tr, th, td {
+    border: solid #000000 1px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+
+th, td {
+    width:auto;
+    text-align: center;
+}
+
+.menu {
+    width: 55%;
+    float: right;
+}
+
+.menu .desktop-menu {
+    display: none;
+}
+
+.desktop-menu.responsive {
+    display: block;
+}
+
+.menu a {
+     /*display: none;*/
+     color: #000000;
+     text-decoration: none;
+}
+
+.menu a.icon {
+    float: right;
+    display: block;
+}
+
+.menu.responsive {
+    position: relative;
+    width: 40%;
+    float: right;
+}
+
+.menu.responsive a.icon {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+.menu.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+}
+
+.desktop-menu .active {
+    text-shadow: 1px 1px;
+}
+
+label, input {
+    font-size: 1.2em;
+    margin-top: 2em;
+}
+
+.result {
+    font-size: 1.1em;
+    margin-top: 2em;
+}
+
+form {
+    text-align: center;
+}
+
+input[type="submit"] {
+    background-color: #041CF4;
+    border: 1px solid #ffffff;
+    border-radius: 2em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    width: 11em;
+    color: #ffffff;
+}
+
+p {
+    font-size: 1.5em;
+    margin-left: 2em;
+    margin-right: 2em;
+}
+
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+@media screen and (min-width: 600px) {
+    .menu {
+        width: 30%;
+    }
+
+    .menu .desktop-menu {
+        display: block;
+        padding-right: 1em;
+        float: right;
+        margin-top: 1.5em;
+    }
+
+    .menu a.icon {
+        display: none;
+    }
+}
