@@ -29,3 +29,7 @@ And the mobile screen menu view design, viz:
 
 ![Mobile screen menu view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Group%2013.png)
 
+And finally the **Logo** design view, viz:
+
+![Logo Design view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Frame%201.png)
+
