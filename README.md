@@ -15,13 +15,13 @@ In the design, there are two screens for the Home screen, viz:
 
 There is a single screen for the Calculate screen, viz:
 
-[Large screen Calculate view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Desktop%20-%203.png)
+![Large screen Calculate view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Desktop%20-%203.png)
 
 ![Mobile screen Calculate view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Android%20Small%20-%203.png)
 
 There is a single screen for the About screen, viz:
 
-[Large screen About view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Desktop%20-%204.png)
+![Large screen About view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Desktop%20-%204.png)
 
 ![Mobile screen About view](https://github.com/olumide0077/WebFinalAssignment/blob/main/UI_UX%20Design/Android%20Small%20-%204.png)
 
